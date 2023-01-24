@@ -23,7 +23,6 @@ export default function app() {
   return (
     <IonApp>
       <HandlerRoutes />
-      <h2>hola</h2>
     </IonApp>
   );
 }
